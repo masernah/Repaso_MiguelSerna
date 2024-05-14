@@ -1,6 +1,6 @@
 package Repaso;
 
-public class RepasoMSerna {
+public class Leopoldo{
 	
 	public static void main(String[] arg) {
 		
